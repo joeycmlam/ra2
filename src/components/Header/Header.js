@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Header() {
+const Header = () => {
     return (
         <img src={"images/header2.png"}/>
     );
