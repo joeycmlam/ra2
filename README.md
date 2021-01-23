@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+from Designing React Components
+1) Higher Order Component  (HOC)
+2) Render Prop (RP)
+3) using Context
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
