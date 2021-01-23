@@ -2,7 +2,10 @@ import React from 'react';
 
 function Header() {
     return (
-        <h2>header js</h2>
+        <img src={"images/header2.png"}/>
     );
 }
+
+
+
 export default Header;
